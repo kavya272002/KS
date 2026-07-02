@@ -1,0 +1,9 @@
+{
+  "name": "kridha-stitches",
+  "version": "1.0.0",
+  "description": "Kridha Stiches - Handcrafted Crochet Bags Store",
+  "scripts": {
+    "start": "npx http-server . -p 3000",
+    "dev": "npx http-server . -p 3000"
+  }
+}
